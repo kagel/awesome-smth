@@ -23,3 +23,10 @@ https://play.ertdfgcvb.xyz/
 
 #### Moving lines
 https://mutsuacen.com/
+
+#### Estuary, collaborative live coding environment
+https://estuary.mcmaster.ca/
+
+#### Origins of live coding
+http://composerprogrammer.com/research/originsoflivecoding.pdf
+
