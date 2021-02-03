@@ -1,6 +1,6 @@
 # awesome-smth
 
-#### 3D Modular
+#### VR Modular
 https://www.synthtopia.com/content/2021/01/31/synthvr-a-virtual-reality-modular-synthesizer-now-available/
 
 #### Collaborative live coding editor
